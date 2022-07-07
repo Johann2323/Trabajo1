@@ -17,7 +17,7 @@
             android:id="@+id/txt_titulo"
             android:layout_width="229dp"
             android:layout_height="70dp"
-            android:text="Bienvenido!!"
+            android:text="Bienvenido a este espacio:"
             android:textColor="#FFE609"
             android:textSize="48sp"
             app:layout_constraintEnd_toEndOf="parent"
